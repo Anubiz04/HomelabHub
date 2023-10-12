@@ -2,7 +2,7 @@
 Homelab Hub is a simple, locally hosted dashboard that allows you to add URLs to a database to make them organized and easily accessible.
 
 # Introduction
-Homelab Hub is a dashboard that I programmed because it bothered me that I always had to access services in my HomeLab by mynually typing the IPs.
+Homelab Hub is a dashboard that I programmed because it bothered me that I always had to access services in my HomeLab by manually typing the IPs.
 I hope that many more features will be implemented in the future.
 
 # How it works
